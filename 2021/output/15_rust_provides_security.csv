@@ -1,0 +1,2 @@
+How do you manage security updates in your Rust dependencies?,cargo audit,cargo outdated,Don't actively follow,Distribution pkg libs,Unknown
+501,255,316,126,40,30

@@ -1,0 +1,2 @@
+How do you or your team/community build or provide Rust software for people to use? Think about your build pipeline or deployment processes for this question.,Local,Container - rustup,Container - packaged rust,Packaged,Library,Other,Unknown
+618,416,217,83,122,298,131,13

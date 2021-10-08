@@ -1,0 +1,2 @@
+"In your release process, how do you manage your Rust dependencies?",Online download from crates.io,Package Manager provided libraries,Unsure,Vendoring (bundled)
+408,280,36,21,71
